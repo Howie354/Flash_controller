@@ -1,0 +1,3 @@
+D:\ic_design\proj\flash_controller\code\spi_flash.v
+D:\ic_design\proj\flash_controller\code\tb_spi_flash.v
+D:\ic_design\proj\flash_controller\code\MX25L6436F.v
