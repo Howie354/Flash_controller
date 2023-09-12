@@ -1,0 +1,2 @@
+# Flash_controller
+基于spi协议的flash控制器设计，flash为64Mb位串行NOR闪存MX25L6436F
